@@ -1,3 +1,3 @@
-# ms-dotnet
+# Microservices with docker
 
-Microservices architecture on .NET 5
+Microservices implementation for scalable assignment 
